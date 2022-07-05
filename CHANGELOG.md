@@ -1,5 +1,15 @@
 # Changelog
 
+## v-test-image-release (2022-07-05)
+
+ * [7773631](https://github.com/tensorchord/envd/commit/777363180fce1af3c23724b16dd287478ef3e06e) fix typo
+ * [f71cd7f](https://github.com/tensorchord/envd/commit/f71cd7f4891fab5e1be588e9b991ab4942e02d57) feat(CLI): Unify CLI style about env and image (#550)
+
+### Contributors
+
+ * Jinjing Zhou
+ * Yuan Tang
+
 ## v0.2.0-alpha.4 (2022-07-05)
 
  * [6e9e44d](https://github.com/tensorchord/envd/commit/6e9e44dfadf13c3899707beda09d92b4f907e24d) feat: Support specify build target (#497)
